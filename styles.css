@@ -218,3 +218,23 @@ footer a {
         padding: 50px 20px;
     }
 }
+
+.thank-you {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.thank-you h1 {
+    font-size: 45px;
+    color: #0d47a1;
+}
+
+.thank-you p {
+    font-size: 18px;
+    margin: 5px;
+}
